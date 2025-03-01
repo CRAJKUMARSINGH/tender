@@ -1,1 +1,6 @@
 streamlit
+openpyxl
+reportlab
+num2words
+pandas
+datetime
